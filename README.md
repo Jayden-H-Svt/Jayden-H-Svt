@@ -7,7 +7,7 @@ I am interning as a developer at Savant International in Medellín, Colombia. Ou
 I have been involved in two projects so far at Savant International:
 
 - A chatbot for improved communication automation.
-- A webservice for staff management and support.
+- A webservice for bot monitoring and management.
 
 ## Let's Connect
 
